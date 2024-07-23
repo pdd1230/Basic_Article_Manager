@@ -8,6 +8,7 @@
 
 - git config --global user.name "Your Name"
 - git config --global user.email "your.email@example.com"
+- 작업을 하기전 반드시 먼저 확인하고 본인의 닉네임과 이메일로 변경합니다
 
 # 3. 'gitignore' 파일 설정
 
