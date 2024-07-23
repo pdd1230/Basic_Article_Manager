@@ -18,7 +18,8 @@
 - git init
 - 원격저장소에 연결하기 위한 대기 상태입니다
 - 이상태에서 탐색기를 살펴보면 '.git' 이라는 폴더가 생성됩니다.  모든 준비가 끝난 상태입니다
-- 
+- git remote add origin https://github.com/pdd1230/Basic_Article_Manager.git (예시)
+- 해당주소를 github에서 복사하고 붙혀넣기 (sHift + inset ,  다른 방법은 (ctrl + v) 적용 안됩니다) 
 
 # 4. 'gitignore' 파일 설정
 
