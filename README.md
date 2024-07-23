@@ -10,8 +10,6 @@
 - git config --global user.email "your.email@example.com"
 - 작업을 하기전 반드시 먼저 확인하고 본인의 닉네임과 이메일로 변경합니다
 - 원격지 주소를 복사해 둡니다
-- git remote add origin
-- 위에 까지 입력한 상태에서 단축키 shift + insert 하면 복사 됩니
 
 # 3. 환경정리
 
