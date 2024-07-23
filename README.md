@@ -59,7 +59,16 @@ vim에서 파일을 저장하고 종료하려면 :wq를 입력하고 Enter 키�
 
 # 6. 그밖에 push 오류가 나는 경우는 구글링 O
 1. The request URL returned error : '403'
-- git remote set-url origin origin https://
+- git remote set-url origin origin https://github.com/pdd1230/Basic_Article_Manager.git (예시)
+- 다시
+- git push origin maser
+  ![image](https://github.com/user-attachments/assets/313d1bb9-a9e0-4ddf-8a30-0c42b6138426)
+
+- github 로그인 진행
+- 정상 수행
+
+2. 기타 다른 사항으로 인한 오류는 생략 ( 구글링 O)
+
 
 
 
