@@ -27,7 +27,7 @@
 ### 여기서는 vim 이용하는 방법 (Git Bash Here 사용을 전제로 함)
 
 1. vim으로 .gitignore 파일 열기
-'git bash here' 클릭 후, 아래를 입력. 파일이 존재하지 않으면 새로 생성됨
+'git bash here' 클릭 후, 아래 처럼 입력함. 만약 파일이 존재하지 않으면 새로 생성됩니다.
 
 - vim .gitignore
 
