@@ -25,12 +25,12 @@
 vim은 기본적으로 Normal 모드에서 시작합니다. 텍스트를 입력하려면 Insert 모드로 전환해야 합니다. i 키를 눌러 Insert 모드로 전환합니다.
 
 3. 무시할 파일 및 디렉토리 추가 
-.gitignore 파일에 무시할 파일 및 디렉토리를 입력합니다.
-. 예) 이클립스 Java
-.settings
-.classpath
-.project
-bin
+.gitignore 파일에 무시할 파일 및 디렉토리를 입력합니다
+- 예) 이클립스 Java
+- .settings
+- .classpath
+- .project
+- bin
 
 이상 4줄 입력
 5. Insert 모드 종료
