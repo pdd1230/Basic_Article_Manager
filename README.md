@@ -9,8 +9,18 @@
 - git config --global user.name "Your Name"
 - git config --global user.email "your.email@example.com"
 - 작업을 하기전 반드시 먼저 확인하고 본인의 닉네임과 이메일로 변경합니다
+- 원격지 주소를 복사해 둡니다
+- git remote add origin
+- 위에 까지 입력한 상태에서 단축키 shift + insert 하면 복사 됩니
 
-# 3. 'gitignore' 파일 설정
+# 3. 환경정리
+
+- git init
+- 원격저장소에 연결하기 위한 대기 상태입니다
+- 이상태에서 탐색기를 살펴보면 '.git' 이라는 폴더가 생성됩니다.  모든 준비가 끝난 상태입니다
+- 
+
+# 4. 'gitignore' 파일 설정
 
 1. 프로젝트 루트 디렉토리로 이동
 2. .gitignore 파일 생성  (구글 검색)
