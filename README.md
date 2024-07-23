@@ -50,13 +50,16 @@ vim은 기본적으로 Normal 모드에서 시작합니다. 텍스트를 입력�
 vim에서 파일을 저장하고 종료하려면 :wq를 입력하고 Enter 키를 누릅니다.
 - :wq
 
-# 로컬 저장소에서 원격 저장소로 올릴때 필수 항목 (3가지)
+# 5. 로컬 저장소에서 원격 저장소로 올릴때 필수 항목 (3가지)
 
 - git status (선택 사항)    
 - git add .
 - git commit -m "메세지"
 - git push origin master
 
+# 6. 그밖에 push 오류가 나는 경우는 구글링 O
+1. The request URL returned error : '403'
+- git remote set-url origin origin https://
 
 
 
